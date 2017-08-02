@@ -41,7 +41,7 @@ public class notes extends AppCompatActivity {
         notes.clear();
         if (set != null) {
             notes.addAll(set);
-            //hi
+            //hi there
         }
         else {
             notes.add("EDIT THIS, ADD NEW ON RIGHT TOP");
